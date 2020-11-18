@@ -1,5 +1,9 @@
 # TirocinioCaiazzo
-There will be several folders in this repository.
-Each folder will refer to a different branch of the final work.
+In questa repository ci sono le esercitazioni sulle query in spark scala.
+Per visualizzarle accedi alla prima cartella QueryScala.
+Fatto questo, ci saranno due cartelle:
+1)Codici;
+2)Output;
 
-For the moment there is the "Query" folder which contains several "files.scala" where I try various queries in spark.scala.
+In codici, ci saranno i file contenente il codice per le query.
+In output, ci saranno i file in formato.csv con il risultato delle query.
